@@ -39,7 +39,7 @@ public class java_demo {
 	driver.findElement(By.xpath("//*[@id=\"appt_enquiry\"]")).sendKeys("hii am alok ");
 	driver.findElement(By.id("appt_perms")).click();
 	driver.findElement(By.xpath("//*[@id=\"button-viewing\"]")).click();
-	
+		 /* Test data to java ALOK ALOK 26-07-2020 */
 		/*System.setProperty("webdriver.gecko.driver","D:\\geckodriver-v0.26.0-win64\\geckodriver.exe");
 		WebDriver driver1 =new FirefoxDriver();
 		
