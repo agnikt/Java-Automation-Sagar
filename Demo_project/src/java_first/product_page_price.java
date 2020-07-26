@@ -34,3 +34,5 @@ public static void main (String args[]) throws InterruptedException {
 		
 		}
 }
+
+/* Check by command line  */
