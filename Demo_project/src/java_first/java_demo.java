@@ -40,6 +40,8 @@ public class java_demo {
 	driver.findElement(By.id("appt_perms")).click();
 	driver.findElement(By.xpath("//*[@id=\"button-viewing\"]")).click();
 		 /* Test data to java ALOK ALOK 26-07-2020 sss */
+
+		 /* Test data to java ALOK ALOK 26-07-2020 sss bbb */
 		/*System.setProperty("webdriver.gecko.driver","D:\\geckodriver-v0.26.0-win64\\geckodriver.exe");
 		WebDriver driver1 =new FirefoxDriver();
 		
